@@ -1,4 +1,4 @@
-const Stack = require('../src/stack');
+const Stack = require('./stack');
 
 class FSM {
     /**
